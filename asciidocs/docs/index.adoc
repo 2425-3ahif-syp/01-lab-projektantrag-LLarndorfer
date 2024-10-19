@@ -1,4 +1,35 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
+= Projektantrag | MeditateEasy
+Lukas Larndorfer
 
-image::img.png[]
+== Projektbeschreibung
+Der ganze Stress im Alltag macht den Mensch oftmals zu schaffen, was für uns der Auslöser war `MeditateEasy` zu entwickeln.
+Mit unserer App wird es Benutzern ermöglicht, ihre Meditationspraxis zu verbessern.
+
+Die App bietet eine benutzerfreundliche Oberfläche mit *Anleitungen* für verschiedene *Meditationsarten* und einem *Timer* zur Festlegung der *Mediationsdauer.*
+Anfängern, als auch erfahrenen Meditierenden, ist es möglich unsere Software zu verwenden.
+
+== Nutzen
+Durch unsere Meditations-App haben die Benutzer folgende Vorteile:
+
+- *Stressreduktion*: Benutzer können mit unserer Meditationspraxis einfach arbeiten, um Stress und Angst abzubauen.
+- *Konzentration*: Durch eine regelmäßige Meditation, kann die Konzentration gesteigert werden, was sich positiv auf den Alltag auswirkt.
+- *Zugänglichkeit*: Jeder kann unsere App benutzen, unabhängig von Alter, Ort oder Zeit.
+
+Dieser Markt wurde noch nicht befriedigt, weshalb wir hier mit unserem Projekt eine gute Möglichkeit sehen.
+
+== Konsequenzen bei Nichtdurchführung
+Wenn unser Projekt aus jeglichen Gründen dem Scheitern verurteilt ist, erwarten uns folgende Konsequenzen:
+
+=== Konsequenzen für die Gesellschaft
+- *Ungesättigter Markt*: Menschen die nach Meditationsapps suchen, werden leider nicht fündig und können somit ihre Praktiken nicht durchführen.
+- *Wachsender Stress*: Da die Leute in dieser stressigen Welt keine Software für die Meditation haben, wird es schwieriger, geeignete Techniken zur Stressbewältigung zu finden.
+
+=== Konsequenzen für Projektteam
+- *Ressourcenverschwendung*: Zeit und aufgewendete finanzielle Mittel wären verloren, ohne dass ein Produkt oder Ergebnis erzielt wurde.
+- *Motivationsverlust*: Alle Mitwirkenden am Projekt wären gedemütigt, da dass das Projekt nicht durchsetzbar ist, und hätten weniger Arbeitslust.
+
+== Personelle Rahmenbedingungen
+Für die Durchführung des Projekts wären folgende personelle Ressourcen erforderlich:
+
+- *Projektmanager*: Koordination des gesamten Projekts und Sicherstellung, dass Zeitpläne eingehalten werden.
+- *Entwickler*: Mindestens ein Entwickler mit Erfahrung in _JavaFX_ zur Erstellung der App.
